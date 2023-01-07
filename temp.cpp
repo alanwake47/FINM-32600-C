@@ -1,11 +1,17 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Hello, World Again!" << std::endl;
+    cout << "Hello, World Again!" << endl;
     //write a function to add two numbers
-    int a = 5;
-    int b = 6;
+    int a;
+    cout << "Enter a number 'a': ";
+    cin >> a;
+    int b;
+    cout << "Enter another number 'b': ";
+    cin >> b;
     int c = a + b;
-    std::cout << "The sum of a and b is " << c << std::endl;
+    cout << "The sum of a and b is " << c << endl;
     return 0;
 }
