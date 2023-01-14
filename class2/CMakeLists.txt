@@ -3,4 +3,4 @@ project(class2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(class2 main.cpp Add.cpp cmake-build-debug/Add.h)
+add_executable(class2 main.cpp Add.cpp Add.h)

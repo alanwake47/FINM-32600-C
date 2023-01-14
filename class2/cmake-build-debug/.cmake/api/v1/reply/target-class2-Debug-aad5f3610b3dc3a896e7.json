@@ -114,7 +114,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "cmake-build-debug/Add.h",
+			"path" : "Add.h",
 			"sourceGroupIndex" : 1
 		}
 	],
