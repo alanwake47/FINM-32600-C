@@ -58,6 +58,12 @@ build CMakeFiles/hw1.dir/convert_currency.cpp.o: CXX_COMPILER__hw1_Debug /Users/
   OBJECT_DIR = CMakeFiles/hw1.dir
   OBJECT_FILE_DIR = CMakeFiles/hw1.dir
 
+build CMakeFiles/hw1.dir/calc_forex.cpp.o: CXX_COMPILER__hw1_Debug /Users/amankrishna/Git/FINM-32600-C/hw1/calc_forex.cpp || cmake_object_order_depends_target_hw1
+  DEP_FILE = CMakeFiles/hw1.dir/calc_forex.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/hw1.dir
+  OBJECT_FILE_DIR = CMakeFiles/hw1.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target hw1
@@ -66,7 +72,7 @@ build CMakeFiles/hw1.dir/convert_currency.cpp.o: CXX_COMPILER__hw1_Debug /Users/
 #############################################
 # Link the executable hw1
 
-build hw1: CXX_EXECUTABLE_LINKER__hw1_Debug CMakeFiles/hw1.dir/main.cpp.o CMakeFiles/hw1.dir/convert_currency.cpp.o
+build hw1: CXX_EXECUTABLE_LINKER__hw1_Debug CMakeFiles/hw1.dir/main.cpp.o CMakeFiles/hw1.dir/convert_currency.cpp.o CMakeFiles/hw1.dir/calc_forex.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/hw1.dir
   POST_BUILD = :

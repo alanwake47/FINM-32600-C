@@ -34,7 +34,7 @@ int main() {
         cout << "Please enter the amount in the base currency: ";
         cin >> base_amount;
 
-        foreign_amount = base_amount * rate_base / rate_foreign;
+        foreign_amount = calc_forex(base_amount, rate_base, rate_foreign);
         
         cout << "The amount in the foreign currency is: " << foreign_amount << endl;
         
