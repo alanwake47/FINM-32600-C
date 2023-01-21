@@ -1,8 +1,10 @@
 //
 // Created by Aman Krishna on 17/01/23.
 //
+         
+#include <string>
+using namespace std;
 
-//header function to return the rate based on currency input
 float get_rate(int currency)
 {
     float rate;
@@ -32,3 +34,34 @@ float get_rate(int currency)
     }
     return rate;
 }
+
+string enum_to_string(int currency)
+{
+    string currency_name;
+    switch(currency)
+    {
+        case 1:
+            currency_name="EUR";
+            break;
+        case 2:
+            currency_name="GBP";
+            break;
+        case 3:
+            currency_name="CAD";
+            break;
+        case 4:
+            currency_name="AUD";
+            break;
+        case 5:
+            currency_name="JPY";
+            break;
+        case 6:
+            currency_name="INR";
+            break;
+        default:
+            currency_name="USD";
+            break;
+    }
+    return currency_name;
+}
+

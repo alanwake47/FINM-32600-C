@@ -6,14 +6,9 @@
 //Use functions whenever appropriate
 
 #include <iostream>
-#include <string>
-#include <iomanip>
-#include <cmath>
-#include <cstdlib>
 #include "convert.h"
 using namespace std;
 
-enum Currency {USD=0, EUR=1, GBP=2, CAD=3, AUD=4, JPY=5, INR=6};
 
 int main() {
     int base_currency;
@@ -31,12 +26,13 @@ int main() {
         cout << "Please enter the foreign currency (0 for USD, 1 for EUR, 2 for GBP, 3 for CAD, 4 for AUD, 5 for JPY, 6 for INR): ";
         cin >> foreign_currency;
         rate_foreign=get_rate(foreign_currency);
-        cout << "Please enter the amount in the base currency: ";
+        //print the name of the base currency as the enum string
+        cout << "Please enter the amount in the base currency: " << enum_to_string(base_currency) << " ";
         cin >> base_amount;
 
         foreign_amount = calc_forex(base_amount, rate_base, rate_foreign);
         
-        cout << "The amount in the foreign currency is: " << foreign_amount << endl;
+        cout << "The amount in the foreign currency is: " << enum_to_string(foreign_currency) << " " << foreign_amount << endl;
         
         cout << "Do you want to quit? (y/n): ";
         char quit_char;

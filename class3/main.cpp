@@ -1,6 +1,10 @@
 #include <iostream>
+using namespace std;
+#include "Circle.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    Circle c(7);
+
+    cout << c.Area() << endl;
+    cout << c.Circumference() << endl;
 }

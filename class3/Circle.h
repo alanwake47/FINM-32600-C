@@ -2,7 +2,16 @@
 // Created by Aman Krishna on 20/01/23.
 //
 
-#ifndef CLASS3_CIRCLE_H
-#define CLASS3_CIRCLE_H
+class Circle
+{
+public:
+    explicit Circle(int radius);
 
-#endif //CLASS3_CIRCLE_H
+    double Area() const;
+    double Circumference() const;
+
+private:
+    int radius_;
+    int centerx_{};
+    int centery_{};
+};
