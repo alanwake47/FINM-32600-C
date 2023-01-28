@@ -2,12 +2,10 @@
 // Created by Aman Krishna on 27/01/23.
 //
 
-#ifndef CLASS4_CURRENCY_H
-#define CLASS4_CURRENCY_H
+#ifndef HW1_CURRENCY_H
+#define HW1_CURRENCY_H
 
-
-class Currency
-        {
+class Currency{
 public:
     Currency(string symbol, double rate);
     double GetExchangeRate();
@@ -18,5 +16,5 @@ private:string symbol_;
     double exchange_rate_;
 };
 
+#endif //HW1_CURRENCY_H
 
-#endif //CLASS4_CURRENCY_H
