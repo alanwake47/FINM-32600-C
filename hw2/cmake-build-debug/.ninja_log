@@ -1,0 +1,5 @@
+# ninja log v5
+1	165	1674958528442705312	CMakeFiles/hw2.dir/converter.cpp.o	a9f5f63db3b75b55
+1	484	1674958528763160259	CMakeFiles/hw2.dir/currency.cpp.o	9eaa18e39f48fc13
+0	488	1674958528767504686	CMakeFiles/hw2.dir/main.cpp.o	dc050215e5cb91fa
+488	536	1674958528817639420	hw2	de4e63979212e87c
