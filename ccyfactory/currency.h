@@ -1,8 +1,30 @@
 //
-// Created by Aman Krishna on 03/02/23.
+// Created by Aman Krishna on 28/01/23.
 //
 
-#ifndef CCYFACTORY_CURRENCY_H
-#define CCYFACTORY_CURRENCY_H
+#ifndef HW2_CURRENCY_H
+#define HW2_CURRENCY_H
+#include <string>
+using std::string;
 
-#endif //CCYFACTORY_CURRENCY_H
+class Currency
+{
+private:
+    string symbol_;
+    double exchange_rate_;
+public:
+    Currency();
+    Currency(string symbol, double rate);
+
+    ~Currency();
+
+
+    string GetSymbol();
+    double GetExchangeRate();
+    void SetExchangeRate(double rate);
+    double ConvertFromUSD(double value) const;
+    double ConvertToUSD(double value) const;
+
+};
+
+#endif //HW2_CURRENCY_H

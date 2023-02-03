@@ -22,8 +22,8 @@ public:
     string GetSymbol();
     double GetExchangeRate();
     void SetExchangeRate(double rate);
-    double ConvertFromUSD(double value);
-    double ConvertToUSD(double value);
+    double ConvertFromUSD(double value) const;
+    double ConvertToUSD(double value) const;
 
 };
 

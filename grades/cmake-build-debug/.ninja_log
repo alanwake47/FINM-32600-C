@@ -1,3 +1,9 @@
 # ninja log v5
 0	384	1675457774890236056	CMakeFiles/grades.dir/main.cpp.o	ead4d66aed053fc6
 385	430	1675457774938031703	grades	fe43b376a57df119
+2	435	1675458468761570079	CMakeFiles/grades.dir/main.cpp.o	ead4d66aed053fc6
+3	143	1675458504578959416	CMakeFiles/grades.dir/gradeconversion.cpp.o	454dcab5111d27aa
+2	383	1675458504818407343	CMakeFiles/grades.dir/main.cpp.o	ead4d66aed053fc6
+383	433	1675458504869898889	grades	432f5da76ed86011
+2	145	1675458552507563501	CMakeFiles/grades.dir/gradeconversion.cpp.o	454dcab5111d27aa
+145	190	1675458552554721673	grades	432f5da76ed86011

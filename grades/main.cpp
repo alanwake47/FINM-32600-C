@@ -1,4 +1,5 @@
 #include <iostream>
+#include "gradeconversion.h"
 using namespace std;
 
 int main() {
@@ -6,8 +7,6 @@ int main() {
     int score;
     cin >> score;
 
-
-
-    cout << "Your Grade is : " << score << endl;
+    cout << "Your Grade is : " << converter(score) << endl;
     return 0;
 }
