@@ -1,0 +1,5 @@
+# ninja log v5
+1	274	1675465104726926246	CMakeFiles/ccyfactory.dir/converter.cpp.o	7bb28f4e79effe49
+1	275	1675465104727259814	CMakeFiles/ccyfactory.dir/currency.cpp.o	1f99e33e84f6487c
+0	318	1675465104771598277	CMakeFiles/ccyfactory.dir/main.cpp.o	15e8f575c3532df1
+318	358	1675465104812858465	ccyfactory	cc358c028c70f76f
