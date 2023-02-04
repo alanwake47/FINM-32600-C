@@ -3,4 +3,4 @@ project(midterm1)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(midterm1 main.cpp)
+add_executable(midterm1 main.cpp currency.cpp currency.h currencyfactory.cpp currencyfactory.h)

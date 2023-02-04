@@ -1,8 +1,15 @@
-#include <iostream>
+#include "nearest_prime.h"
 
-using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
-    return 0;
+    int num;
+    //test for n = 11
+    num = 11;
+    printFooBar(nearestPrime(num));
+    //test for n = 23
+    num = 23;
+    printFooBar(nearestPrime(num));
+    //test for n = 28
+    num = 28;
+    printFooBar(nearestPrime(num));
 }

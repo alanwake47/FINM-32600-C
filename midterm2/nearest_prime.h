@@ -5,4 +5,7 @@
 #ifndef MIDTERM2_NEAREST_PRIME_H
 #define MIDTERM2_NEAREST_PRIME_H
 
+int nearestPrime(int num);
+void printFooBar(int num);
+
 #endif //MIDTERM2_NEAREST_PRIME_H
