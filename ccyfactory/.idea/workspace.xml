@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -21,67 +21,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c96b0e1-5aec-4b8d-9b50-0ea61c85aa27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Q1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Q2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ccyfactory.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-536c68e4ce38d230687c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-03T23-02-46-0022.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ccyfactory-Debug-ef9c7e3b43a39b41cf7a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currencyfactory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currencyfactory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm1/currency.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm1/currency.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm1/currencyfactory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm1/currencyfactory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4079a548e59b79f4b429.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-66668493ca4e83028442.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-04T00-44-29-0554.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.cmake/api/v1/reply/target-midterm2-Debug-75588effa46a51432686.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm2/nearest_prime.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm2/nearest_prime.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../midterm2/printfoobar.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-be7f353467738a6f48a4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-03T22-57-54-0818.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ccyfactory-Debug-d712006f204fb1a6bcc3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ccyfactory.dir/converter.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ccyfactory.dir/currency.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ccyfactory.dir/main.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ccyfactory" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../exam.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-07bbf31c816f850af157.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-86edf926cb79168f0a8a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-03T07-07-40-0043.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/target-midterm1-Debug-bfc2e8ab91eb85d40c53.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/midterm1.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/midterm1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm2/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ec8cf02577bafad95fcd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9f63045ae576e8c1e57c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-03T07-09-29-0578.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.cmake/api/v1/reply/target-midterm2-Debug-1d56e6d485bbf7331e28.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm2/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/CMakeFiles/midterm2.dir/main.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm2/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/midterm2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm2/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,28 +53,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ccyfactory" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ccyfactory" TARGET_NAME="ccyfactory" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ccyfactory" RUN_TARGET_NAME="ccyfactory">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -148,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675464969849</updated>
       <workItem from="1675464971152" duration="5762000" />
+      <workItem from="1675561614282" duration="4000" />
     </task>
     <servers />
   </component>
