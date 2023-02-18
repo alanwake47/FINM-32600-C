@@ -1,8 +1,20 @@
-//
-// Created by Aman Krishna on 17/02/23.
-//
+#ifndef CURRENCY_HPP
+#define CURRENCY_HPP
 
-#ifndef HW3_CURRENCY_H
-#define HW3_CURRENCY_H
+#include <string>
+using std::string;
 
-#endif //HW3_CURRENCY_H
+class Currency {
+public:
+    Currency(const string& symbol, double exchange_rate);
+    double ConvertTo(double amount, const Currency& to) const;
+    double GetExchangeRate() const;
+    string GetSymbol() const;
+    ~Currency();
+
+private:
+    string symbol_;
+    double exchange_rate_;
+};
+
+#endif

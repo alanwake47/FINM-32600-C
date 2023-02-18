@@ -21,12 +21,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c96b0e1-5aec-4b8d-9b50-0ea61c85aa27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hw3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.idea/hw3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/CurrencyFactory.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/CurrencyFactory.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/reply/cache-v2-924a554f4136298fa100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-dc3f55d92c9666140a27.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a8ad0267fef7d2b0689c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-18T01-00-27-0824.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/reply/target-hw3-Debug-2c314ad6d4fa0c4cab8f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-d1fec8847d7c587f39f7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/currency_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/cmake-build-debug/currency_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/currency.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/currency.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midterm2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/currencyfactory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/currencyfactory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +132,7 @@
       <updated>1675464969849</updated>
       <workItem from="1675464971152" duration="5762000" />
       <workItem from="1675561614282" duration="4000" />
-      <workItem from="1676679176527" duration="536000" />
+      <workItem from="1676679176527" duration="598000" />
     </task>
     <servers />
   </component>

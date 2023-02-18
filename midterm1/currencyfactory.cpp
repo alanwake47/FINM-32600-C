@@ -8,6 +8,10 @@ using namespace std;
 
 CurrencyFactory* CurrencyFactory::instance_ = nullptr;
 
+// We need to use a map to store currencies.
+// We could define the map to store Currency objects as: map<string, Currency*> currencies_;
+// Use constructor to create free-store Currency objects and store them in the map:
+
 CurrencyFactory::CurrencyFactory()
 {
     currencies_[0] = new Currency("USD", "USA", 1.0);

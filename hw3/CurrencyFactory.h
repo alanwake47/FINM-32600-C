@@ -1,8 +1,19 @@
-//
-// Created by Aman Krishna on 17/02/23.
-//
+#ifndef CURRENCY_FACTORY_HPP
+#define CURRENCY_FACTORY_HPP
 
-#ifndef HW3_CURRENCYFACTORY_H
-#define HW3_CURRENCYFACTORY_H
+#include "currency.h"
+#include <map>
+#include <memory>
+using std::string;
+using std::map;
+using std::shared_ptr;
 
-#endif //HW3_CURRENCYFACTORY_H
+class CurrencyFactory {
+public:
+    Currency* GetCurrency(const string& currencySymbol);
+
+private:
+    map<string, shared_ptr<Currency>> currencies_;
+};
+
+#endif
