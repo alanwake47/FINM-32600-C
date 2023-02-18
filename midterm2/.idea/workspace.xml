@@ -23,6 +23,9 @@
     <list default="true" id="8cb2850a-05cc-44cf-8441-1c08d5528f32" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../ccyfactory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ccyfactory/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ccyfactory/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ccyfactory/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +89,7 @@
       <updated>1675408168390</updated>
       <workItem from="1675408169571" duration="12975000" />
       <workItem from="1675561612381" duration="6000" />
+      <workItem from="1676679175099" duration="537000" />
     </task>
     <servers />
   </component>
