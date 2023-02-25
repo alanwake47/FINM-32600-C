@@ -20,6 +20,7 @@ public:
     //Gamma virtual function
     virtual double Gamma(double spot, double rate, double vol) const = 0;
 
+
 protected:
     //d1
     double d1(double spot, double rate, double vol) const;

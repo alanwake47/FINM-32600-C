@@ -8,7 +8,7 @@
 //Constructor
 Option::Option(double strike, double expiry) : strike_(strike), expiry_(expiry) {}
 
-//d1
+//d1 using cdf and pdf
 double Option::d1(double spot, double rate, double vol) const {
     return (log(spot / strike_) + (rate + 0.5 * pow(vol, 2)) * expiry_) / (vol * sqrt(expiry_));
 }
