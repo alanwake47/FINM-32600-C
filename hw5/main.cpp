@@ -1,9 +1,9 @@
 #include <iostream>
 #include "europeanput.h"
 #include "europeancall.h"
-#include "boxmuller.h"
 #include "pricer.h"
 #include <vector>
+
 using namespace std;
 
 //AMAN KRISHNA
@@ -29,7 +29,7 @@ int main() {
 
     //Test The MCPricer
     MCPricer pricer;
-
+    srand(time(NULL));
     for (int i = 0; i < paths.size(); i++) {
         cout << "The number of paths is: " << paths[i] << endl;
         cout << "The price of the European Call option is: " << pricer.Price(call, S0, r, sigma, paths[i]) << endl;
