@@ -5,4 +5,6 @@
 #ifndef HW5_BOXMULLER_H
 #define HW5_BOXMULLER_H
 
+double BoxMuller();
+
 #endif //HW5_BOXMULLER_H

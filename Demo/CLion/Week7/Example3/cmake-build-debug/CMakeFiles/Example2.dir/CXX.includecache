@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/l_cha/Desktop/Week7/Example2/Base2.h
+
+C:/Users/l_cha/Desktop/Week7/Example2/Derived2.h
+Base2.h
+C:/Users/l_cha/Desktop/Week7/Example2/Base2.h
+
+C:/Users/l_cha/Desktop/Week7/Example2/main.cpp
+iostream
+-
+Derived2.h
+C:/Users/l_cha/Desktop/Week7/Example2/Derived2.h
+

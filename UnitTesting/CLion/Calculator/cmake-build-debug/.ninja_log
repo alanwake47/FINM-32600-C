@@ -1,0 +1,6 @@
+# ninja log v5
+6	113	6989595595013387	UnitTest/CMakeFiles/unit_test.dir/__/Calculator/Add.cpp.obj	168f06ed4a405c24
+0	5428	6989595647947039	UnitTest/CMakeFiles/unit_test.dir/UnitTest.cpp.obj	e7a29f4f6ae9c899
+5433	12387	6989595717637455	UnitTest/unit_test.exe	6df7c88a147aa1e5
+3	110	6989595901801630	UnitTest/CMakeFiles/unit_test.dir/__/Calculator/Add.cpp.obj	168f06ed4a405c24
+111	7260	6989595973166115	UnitTest/unit_test.exe	6df7c88a147aa1e5
