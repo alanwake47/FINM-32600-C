@@ -4,9 +4,9 @@
 
 #include "pricer.h"
 #include "boxmuller.h"
-
+#include <iostream>
 #include <cmath>
-
+using namespace std;
 
 //Price function
 double MCPricer::Price(const Option& option, double spot, double rate, double vol, unsigned long paths) const {
@@ -18,6 +18,7 @@ double MCPricer::Price(const Option& option, double spot, double rate, double vo
         double z = BoxMuller();
 
         double spot_T = spot * exp((rate - 0.5 * vol * vol) * T + vol * sqrt(T) * z);
+        //cout << "spot_T: " <<  vol * z << "\n";
         double payoff = option.GetExpirationPayoff(spot_T);
         double discounted_payoff = payoff * exp(-rate * T);
         sum += discounted_payoff;
