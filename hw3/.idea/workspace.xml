@@ -21,14 +21,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d24d886f-6b9f-48d9-becb-bc63f6c99854" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Q1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/Q1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-5301508576b7eb8a84b0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b2308bd398b111248df2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e05ce8d0cb770f29213f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-10T22-31-33-0418.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/target-midterm1-Debug-7f867178d6dff9524705.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-fb26c9bbdd179811ff85.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/midterm1.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/midterm1.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/midterm1.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/midterm1.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/midterm1.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/midterm1.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/midterm1.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/midterm1.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/midterm1.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/midterm1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw5/boxmuller.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5/boxmuller.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw5/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw5/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw5/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw5/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw5/pricer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5/pricer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a6402ca337c48a54b982.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-052dba2dcc5c046a68fd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-de0d5b0b0ef1f58dddfd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-04T00-15-40-0239.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/target-midterm1-Debug-977a0eafc4dd5f628b9e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-5b833b81ddf072f33d87.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midterm1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +131,7 @@
       <workItem from="1676681146099" duration="11795000" />
       <workItem from="1676698812214" duration="163000" />
       <workItem from="1677513521279" duration="438000" />
+      <workItem from="1678477201302" duration="2087000" />
     </task>
     <servers />
   </component>
