@@ -27,4 +27,8 @@ double MCPricer::Price(const Option& option, double spot, double rate, double vo
     return sum / static_cast<double>(paths);
 }
 
+//Constructor
+
+
+
 

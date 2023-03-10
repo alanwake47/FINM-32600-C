@@ -19,6 +19,9 @@ public:
     //Get Option Payoff
     virtual double GetExpirationPayoff(double spot_T) const = 0;
 
+    //Get Intermediate Payoff
+    virtual double GetIntermediatePayoff(double spot_T, double discexpectedpayoff) const = 0;
+
     //Delta virtual function
     virtual double Delta(double spot, double rate, double vol) const = 0;
 

@@ -13,9 +13,6 @@ public:
     //Constructor
     EuropeanCall(double strike, double expiry) : Option(strike, expiry) {}
 
-    //Price function
-    //double Price(double spot, double rate, double vol) const override;
-
     //Get Option Payoff
     double GetExpirationPayoff(double spot_T) const override;
 
